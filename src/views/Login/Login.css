@@ -1,0 +1,27 @@
+.Login{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(74, 129, 237);
+    /* position: relative ; */
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.content{
+    /* position: absolute ; */
+    width: 35vw;
+    background-color: rgb(247, 247, 252);
+    border: 3px solid #fff;
+    padding-top: 20px;
+    /* top: 0;
+    bottom: 0;
+
+    left: 0;
+    right: 0;
+    margin: auto; */
+    
+h2{
+        text-align: center;
+    }
+}
+/* .content  */
